@@ -19,3 +19,5 @@ Model performance is measured in terms of whether it was able to correctly predi
 For the Prophet model, the raw data is loaded into a Pandas dataframe with the necessary specifications for use by Prophet. 
 
 Once the dataframe is prepared, the Model is fit with 1 year of training data and makes a prediction for the following year. This process is repeated 9 times for each year after the first.
+
+The results of the 2 models are then compared based on the ability to correctly predict the direction of the stock movement (increase or decrease in adjustd closing price)
