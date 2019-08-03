@@ -1,4 +1,4 @@
-# Capstone-2
+# Predicting Microsoft Stock Using LSTM
 Second capstone project for the Springboard data science career track.
 
 Project report PDF contains the written report for this project. 
